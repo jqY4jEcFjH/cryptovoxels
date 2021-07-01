@@ -1,3 +1,5 @@
+// BAD Token Restriction
+
 parcel.on('playerenter',e=>{  
  
 let badAccount = e.player.wallet
@@ -16,3 +18,6 @@ fetch(url)
   })
  
 })
+
+// Text Bubble
+
